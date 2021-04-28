@@ -1,3 +1,2 @@
-# Flow
-## Group Project
-## Time Management
+# Flow - Group Project
+Time Management
